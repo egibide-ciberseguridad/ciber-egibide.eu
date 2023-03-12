@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TurnoClase
-author: Ion Jaureguialzo Sarasola
+title: Egibide Ciberseguridad
+author: Departamento de Informática, Egibide
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: ijaureguialzo
+github_username: egibide-ciberseguridad
 
 # Build settings
 theme: minima
@@ -30,7 +30,7 @@ theme: minima
 plugins:
   - jekyll-multiple-languages-plugin
 
-languages: [ "en", "es" ]
+languages: [ "en", "es", "eu" ]
 exclude_from_localizations: [ "images" ]
 
 # Exclude from processing.
